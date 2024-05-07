@@ -2,7 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 import { Inter } from "next/font/google";
 import Header from "@/components/header";
-import MiddleSection from "@/components/middleSection";
+import MiddleSection from "@/components/MiddleSection";
 import BottomSection from "@/components/BottomSection";
 
 const inter = Inter({ subsets: ["latin"] });
