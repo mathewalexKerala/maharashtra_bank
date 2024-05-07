@@ -2924,7 +2924,7 @@ const Header = () => {
                 </div>
               </div>
               <div className="megamenu menulogin">
-                <a className="mainli gradBtn" href="//www.mahaconnect.in/">
+                <a className="mainli gradBtn" href="">
                   {" "}
 
 
@@ -3579,7 +3579,7 @@ const Header = () => {
                     </li>
                     <li>
                       <a
-                        href="//www.psbloansin59minutes.com/bankofmaharashtra"
+                        href=""
                         target="_blank"
                       >
                         PSB Loans in 59 Minutes

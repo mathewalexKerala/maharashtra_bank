@@ -318,7 +318,7 @@ return(
               src="/projectfiles/bomlayoutcontainer/default/images/icons/beti1.png" className="loadimg fade"
                 alt="Beti Bachao Beti Padhao" title="Beti Bachao Beti Padhao" style={{margin:'0 5px 7px 5px'}}/>
             <div className="col aos-init aos-animate" data-aos="slide-left" data-aos-duration="600"
-                data-aos-offset="-250" data-aos-delay="300"><a href="//www.mahaconnect.in/" target="_blank"
+                data-aos-offset="-250" data-aos-delay="300"><a href="" target="_blank"
                 className="flIcon" title="Internet Banking">
                                 {
        showPlaceholder ? (
@@ -487,7 +487,7 @@ width={50} height={50}
                                     src="/projectfiles/bomlayoutcontainer/default/images/loans/car.png"
                                     className="loadimg" alt="Car Loan" title="Car Loan"/>
                                 <h4>Car Loan</h4><a
-                                    href="//digiloans.bankofmaharashtra.in/apply/vehicleloan?bom"
+                                    href="/"
                                     target="_blank" className="btn btn-primary">Apply Now!</a>
                             </div>
                         </div>
@@ -496,7 +496,7 @@ width={50} height={50}
                                   src="/projectfiles/bomlayoutcontainer/default/images/loans/sale.svg"
                                     className="loadimg" alt="Personal Loan" title="Personal Loan"/>
                                 <h4>Personal Loan</h4><a
-                                    href="//digiloans.bankofmaharashtra.in/apply/homeloan?bom" target="_blank"
+                                    href="" target="_blank"
                                     className="btn btn-primary">Apply Now!</a>
                             </div>
                         </div>
